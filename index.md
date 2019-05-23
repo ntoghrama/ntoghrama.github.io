@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+<img src="ararat.png" width="500" height="120">
 <img src="harvard-logo.jpg" width="500" height="120">
 
 ## About Me
