@@ -4,8 +4,8 @@ layout: default
 
 # Natasha Toghramadjian
 
-<img src="ararat1.jpg" width="500" height="120">
-<img src="harvard-logo.jpg" width="500" height="120">
+<img src="ararat2.png" width="500" height="120">
+<img src="harvard-logo.jpg" width="400" height="120">
 
 ## About Me
 
