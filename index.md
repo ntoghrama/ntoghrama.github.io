@@ -19,6 +19,7 @@ I am a first-year PhD Student in Geophysics at Harvard University, advised by Dr
 
 
 <img src="seattleBB_2.png">
+
 One of our 10 broadband seismic stations deployed in downtown Seattle, April 2019.
 
 ## Publications
