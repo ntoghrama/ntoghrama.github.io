@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<img src="harvard-logo.jpg" width="100" height="24">
+<img src="harvard-logo.jpg" width="500" height="120">
 
 ## About Me
 
@@ -14,7 +14,7 @@ Hi! I am a PhD Student in Geophysics at Harvard University, advised by Dr. Marin
 
 My current research focus lies in using ambient noise seismology to better understand and quantify ground motion amplification in sedimentary basins, Seattle in particular.
 
-<img class="profile-picture" src="seattle_BB.jpeg" title="One of our 10 broadband seismic stations deployed in downtown Seattle, April 2019" width="800" height="600">
+<img src="seattle_BB.jpeg" title="One of our 10 broadband seismic stations deployed in downtown Seattle, April 2019" width="800" height="600">
 
 ## Publications
 
