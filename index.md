@@ -1,8 +1,9 @@
-# Natasha Toghramadjian
-
 ---
 layout: default
 ---
+
+# Natasha Toghramadjian
+
 <img src="ararat1.jpeg" width="500" height="120">
 <img src="harvard-logo.jpg" width="500" height="120">
 
