@@ -11,8 +11,7 @@ layout: default
 
 <img class="profile-picture" src="natasha_headshot_dilijan.jpeg" width="200" height="220">
 
-I am a first-year PhD Student in Geophysics at Harvard University, 
-advised by Dr. Marine Denolle.
+I am a first-year PhD Student in Geophysics at Harvard University, advised by Dr. Marine Denolle.
 
 ## Research Interests
 
@@ -32,3 +31,8 @@ One of our 10 broadband seismic stations deployed in downtown Seattle, April 201
 ## Contact
 
 natasha_toghramadjian@g.harvard.edu
+
+Geology Museum 200B
+20 Oxford Street
+Cambridge, MA 02138
+USA
