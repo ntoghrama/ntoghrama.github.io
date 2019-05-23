@@ -3,12 +3,12 @@ url: "https://ankitsultana.com"
 baseurl: "/researcher"
 
 markdown: kramdown
-ins_logo: "harvard-logo.jpg"
+# ins_logo: "harvard-logo.jpg"
 
 tracking_id: #
 
 footer: yes
-footer_url: "https://github.com/ankitsultana"
+# footer_url: "https://github.com/ankitsultana"
 # footer_text: "Page design by Ankit Sultana"
 
 sass:
