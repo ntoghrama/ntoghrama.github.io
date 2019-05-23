@@ -1,4 +1,5 @@
 title: Natasha Toghramadjian
+baseurl: "/researcher"
 
 markdown: kramdown
 ins_logo: "ararat.png"
@@ -14,9 +15,9 @@ sass:
     sass_dir: _sass
 
 nav:
- name: "About"
+ - name: "About"
    link: "/researcher/"
- name: "Resume"
+ - name: "Resume"
    link: "resume.pdf"
- name: "Contact"
+ - name: "Contact"
    link: "contact"
