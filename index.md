@@ -19,7 +19,7 @@ My current research focus lies in using ambient noise seismology to better under
 
 ## Publications
 
-1. Lilit Sargsyan, Natasha E. Toghramadjian, Alan L. Kafka; Cellular Seismology Analysis of Reservoir‐Triggered Seismicity Associated with Armenian Dams. Bulletin of the Seismological Society of America ; 108 (5B): 3126–3140. doi: [https://doi.org/10.1785/0120180014]
+1. Lilit Sargsyan, **Natasha E. Toghramadjian**, Alan L. Kafka; Cellular Seismology Analysis of Reservoir‐Triggered Seismicity Associated with Armenian Dams. Bulletin of the Seismological Society of America ; 108 (5B): 3126–3140. doi: [https://doi.org/10.1785/0120180014]
 
 ---
 
