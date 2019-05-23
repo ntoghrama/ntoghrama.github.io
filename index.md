@@ -4,7 +4,7 @@ layout: default
 
 # Natasha Toghramadjian
 
-<img src="ararat2.png" width="500" height="120">
+<img src="ararat2.png" width="400" height="120">
 <img src="harvard-logo.jpg" width="400" height="120">
 
 ## About Me
@@ -17,7 +17,7 @@ layout: default
 I am a PhD Student in Geophysics at Harvard University, advised by Dr. Marine Denolle. My current research focus lies in using ambient noise seismology to better understand and quantify ground motion amplification in sedimentary basins. I am particularly interested in how the seismic wavefield behaves at the basin edge, which I am now investigating in Seattle, especially the Seattle thrust fault, the Seattle basin's southern boundary.
 
 
-<img src="seattleBB.jpeg" title="One of our 10 broadband seismic stations deployed in downtown Seattle, April 2019">
+<img src="seattleBB_2.png" title="One of our 10 broadband seismic stations deployed in downtown Seattle, April 2019">
 
 ## Publications
 
