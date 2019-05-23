@@ -5,7 +5,7 @@ layout: default
 # Natasha Toghramadjian
 
 <img src="ararat2.png">
-
+<img src="harvard-logo.jpg">
 
 ## About Me
 
