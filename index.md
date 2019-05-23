@@ -6,7 +6,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="natasha_headshot_dilijan.jpeg" width="300" height="330">
+<img class="profile-picture" src="natasha_headshot_dilijan.jpeg" width="200" height="220">
 
 
 ## Research Interests
