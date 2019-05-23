@@ -11,7 +11,8 @@ layout: default
 
 <img class="profile-picture" src="natasha_headshot_dilijan.jpeg" width="200" height="220">
 
-I am a first-year PhD Student in Geophysics at Harvard University, advised by Dr. Marine Denolle.
+I am a first-year PhD Student in Geophysics at Harvard University, 
+advised by Dr. Marine Denolle.
 
 ## Research Interests
 
@@ -24,7 +25,7 @@ One of our 10 broadband seismic stations deployed in downtown Seattle, April 201
 
 ## Publications
 
-1. Lilit Sargsyan, **Natasha E. Toghramadjian**, Alan L. Kafka; Cellular Seismology Analysis of Reservoir‐Triggered Seismicity Associated with Armenian Dams. Bulletin of the Seismological Society of America ; 108 (5B): 3126–3140. doi: [https://doi.org/10.1785/0120180014]
+1. Lilit Sargsyan, **Natasha E. Toghramadjian**, Alan L. Kafka; Cellular Seismology Analysis of Reservoir‐Triggered Seismicity Associated with Armenian Dams. Bulletin of the Seismological Society of America; 108 (5B): 3126–3140. doi: [https://doi.org/10.1785/0120180014]
 
 ---
 
