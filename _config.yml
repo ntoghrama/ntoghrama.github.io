@@ -3,22 +3,22 @@ url: "https://ankitsultana.com"
 baseurl: "/researcher"
 
 markdown: kramdown
-# ins_logo: "harvard-logo.jpg"
+ins_logo: "ararat.png"
 
 tracking_id: #
 
 footer: yes
-# footer_url: "https://github.com/ankitsultana"
-# footer_text: "Page design by Ankit Sultana"
+# footer_url: "https://github.com/ntoghrama"
+# footer_text: "Link to Github"
 
 sass:
     style: compressed
     sass_dir: _sass
 
 nav:
- - name: "About"
+ name: "About"
    link: "/researcher/"
- - name: "Resume"
+ name: "Resume"
    link: "resume.pdf"
- - name: "Contact"
+ name: "Contact"
    link: "contact"
