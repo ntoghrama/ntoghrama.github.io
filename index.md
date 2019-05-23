@@ -13,6 +13,8 @@ Hi! I am a PhD Student in Geophysics at Harvard University, advised by Dr. Marin
 
 My current research focus lies in using ambient noise seismology to better understand and quantify ground motion amplification in sedimentary basins, Seattle in particular.
 
+<img class="field-work" src="seattle_BB.jpg">
+
 ## Publications
 
 1. F.Bar, J.Doe: Effects of having a placeholder of a name
@@ -30,9 +32,9 @@ My current research focus lies in using ambient noise seismology to better under
     #2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
     #2014 | Satellite | Won Best Actor miniseries or television film
 
-    #Here is a horizontal rule
+    ##Here is a horizontal rule
 
-    #---
+---
 
     #Here is a blockquote
 
