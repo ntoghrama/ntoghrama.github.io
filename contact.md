@@ -10,7 +10,5 @@ is_contact: true
 ## Mailing Address
 
 > 20 Oxford Street
->
 > Cambridge, MA 02138
->
-> U.S.A.
+> USA
