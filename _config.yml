@@ -17,6 +17,8 @@ sass:
 nav:
  - name: "About"
    link: "/researcher/"
+ - name: "Seattle"
+   link: "/Seattle/"
  - name: "Resume"
    link: "resume.pdf"
  - name: "Contact"
