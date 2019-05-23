@@ -7,15 +7,13 @@ layout: default
 
 <img class="profile-picture" src="natasha_headshot_dilijan.jpeg" width="300" height="330">
 
-Hi! I am a PhD Student in Geophysics at Harvard University, advised by Dr. Marine Denolle. My current research focus lies in using ambient noise seismology to better understand and quantify ground motion amplification in sedimentary basins. I am particularly interested in how the seismic wavefield behaves at the basin edge, which I am now investigating in Seattle, especially the Seattle thrust fault, the Seattle basin's southern boundary.
-
-
 
 ## Research Interests
 
-My current research focus lies in using ambient noise seismology to better understand and quantify ground motion amplification in sedimentary basins, Seattle in particular.
+I am a PhD Student in Geophysics at Harvard University, advised by Dr. Marine Denolle. My current research focus lies in using ambient noise seismology to better understand and quantify ground motion amplification in sedimentary basins. I am particularly interested in how the seismic wavefield behaves at the basin edge, which I am now investigating in Seattle, especially the Seattle thrust fault, the Seattle basin's southern boundary.
 
-<img src="seattleBB.jpeg" title="One of our 10 broadband seismic stations deployed in downtown Seattle, April 2019" width="800" height="600" font-family="helvetica neue">
+
+<img src="seattleBB.jpeg" title="One of our 10 broadband seismic stations deployed in downtown Seattle, April 2019">
 
 ## Publications
 
