@@ -15,7 +15,7 @@ I am a first-year PhD Student in Geophysics at Harvard University, advised by Dr
 
 ## Research Interests
 
- My current research focus lies in using ambient noise seismology to better understand and quantify ground motion amplification in sedimentary basins. I am particularly interested in how the seismic wavefield behaves at the basin edge, which I am now investigating in Seattle, especially the Seattle thrust fault, the Seattle basin's southern boundary.
+ My current research focuses on using ambient noise seismology to better understand and quantify ground motion amplification in sedimentary basins. I am particularly interested in how the seismic wavefield behaves at the basin edge, which I am now investigating in Seattle, especially the Seattle thrust fault, the Seattle basin's southern boundary.
 
 
 <img src="seattleBB_2.png">
