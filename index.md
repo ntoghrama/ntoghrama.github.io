@@ -9,7 +9,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="natasha_headshot_dilijan.jpeg" width="200" height="220">
+<img src="natasha_headshot_dilijan.jpeg" width="200" height="220">
 
 I am a first-year PhD Student in Geophysics at Harvard University, advised by Dr. Marine Denolle.
 
