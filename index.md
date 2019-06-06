@@ -9,7 +9,7 @@ layout: default
 
 ## About Me
 
-<img src="natasha_headshot_dilijan_1.jpeg">
+<img src="natasha_headshot_dilijan_2.png">
 
 I am a first-year PhD Student in Geophysics at Harvard University, advised by Dr. Marine Denolle.
 
@@ -20,7 +20,7 @@ I am a first-year PhD Student in Geophysics at Harvard University, advised by Dr
 
 <img src="seattleBB_2.png">
 
-One of our 10 broadband seismic stations deployed in downtown Seattle, April 2019.
+One of our 10 broadband seismic stations and educational exhibits deployed in downtown Seattle in April 2019.
 
 ## Publications
 
