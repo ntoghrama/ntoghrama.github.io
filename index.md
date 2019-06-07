@@ -9,9 +9,9 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="natasha_headshot_dilijan_2.png">
+<img src="natasha_headshot_dilijan_2.png">
 
-I am a first-year PhD Student in Geophysics at Harvard University, advised by Dr. Marine Denolle. My research is supported by the [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/) and the [Harvard Ashford Fellowship](https://ashfordfellows.fas.harvard.edu/about).
+I am a first-year PhD Student in Geophysics at Harvard University, in the [Earthquake Seismology Group](https://quake.fas.harvard.edu/) advised by Dr. Marine Denolle. My research is supported by the [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/) and the [Harvard Ashford Fellowship](https://ashfordfellows.fas.harvard.edu/about).
 
 ## Research Interests
 
@@ -20,7 +20,7 @@ I am a first-year PhD Student in Geophysics at Harvard University, advised by Dr
 
 <img src="seattleBB_2.png">
 
-One of our 10 broadband seismic stations and educational exhibits deployed in downtown Seattle in April 2019.
+One of our 10 broadband seismic stations and educational exhibits deployed across downtown Seattle in April 2019.
 
 ## Publications
 
