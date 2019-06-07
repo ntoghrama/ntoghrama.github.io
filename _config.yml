@@ -15,11 +15,11 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "About"
+ - name: "About "
    link: "/researcher/"
- - name: "Seattle Experiment"
+ - name: "Seattle Experiment "
    link: "/Seattle/"
- - name: "CV"
+ - name: "CV "
    link: "resume.pdf"
  - name: "Contact"
    link: "contact"
