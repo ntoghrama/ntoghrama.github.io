@@ -11,7 +11,7 @@ layout: default
 
 <img class="profile-picture" src="natasha_headshot_dilijan_2.png">
 
-I am a first-year PhD Student in Geophysics at Harvard University, advised by Dr. Marine Denolle.
+I am a first-year PhD Student in Geophysics at Harvard University, advised by Dr. Marine Denolle. My research is supported by the NSF Graduate Research Fellowship and the Harvard Ashford Fellowship.
 
 ## Research Interests
 
