@@ -11,11 +11,15 @@ layout: default
 
 <img class="profile-picture" src="natasha_harvard_photo.png">
 
-<img src="natasha_headshot_dilijan_2.png" width="200"/>
+<img src="natasha_headshot_dilijan_2.png" width="100">
 
 I am a first-year PhD Student in Geophysics at Harvard University, in the [Earthquake Seismology Group](https://quake.fas.harvard.edu/) advised by Dr. Marine Denolle. My research is supported by the [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/) and the [Harvard Ashford Fellowship](https://ashfordfellows.fas.harvard.edu/about).
 
 <img class="profile-picture" src="nsf_logo.png">
+
+
+
+
 
 ## Research Interests
 
