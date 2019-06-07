@@ -10,11 +10,10 @@ layout: default
 ## About Me
 
 
-<img src="natasha_harvard_photo.png">
+<img class="profile-picture" src="natasha_harvard_photo.png">
 
-<img class="profile-picture" src="nsf_logo.png">
 
-I am a first-year PhD Student in Geophysics at Harvard University, in the [Earthquake Seismology Group](https://quake.fas.harvard.edu/) advised by Dr. Marine Denolle. My research is supported by the [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/) and the [Harvard Ashford Fellowship](https://ashfordfellows.fas.harvard.edu/about).
+I am a first-year PhD Student in Geophysics at Harvard University, in the [Earthquake Seismology Group](https://quake.fas.harvard.edu/) advised by Dr. Marine Denolle. 
 
 
 ## <font color="white">space</font>
@@ -23,7 +22,9 @@ I am a first-year PhD Student in Geophysics at Harvard University, in the [Earth
 
 ## Research Interests
 
- My current research focuses on using ambient noise seismology to better understand and quantify ground motion amplification in sedimentary basins. I am particularly interested in how the seismic wavefield behaves at the basin edge, which I am now investigating in Seattle, especially the Seattle thrust fault, the Seattle basin's southern boundary.
+<img class="profile-picture" src="nsf_logo.png">
+
+ My current research focuses on using ambient noise seismology to better understand and quantify ground motion amplification in sedimentary basins. I am particularly interested in how the seismic wavefield behaves at the basin edge, which I am now investigating in Seattle, especially the Seattle thrust fault, the Seattle basin's southern boundary. My research is supported by the [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/) and the [Harvard Ashford Fellowship](https://ashfordfellows.fas.harvard.edu/about).
 
 
 <img src="seattleBB_2.png">
