@@ -10,7 +10,7 @@ layout: default
 ## About Me
 
 
-<img src="natasha_headshot_dilijan_2.png">
+<img src="natasha_harvard_photo.png">
 
 <img class="profile-picture" src="nsf_logo.png">
 
