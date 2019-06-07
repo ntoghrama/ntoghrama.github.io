@@ -18,7 +18,6 @@ I am a first-year PhD Student in Geophysics at Harvard University, in the [Earth
 
 
 ## <font color="white">space</font>
-## <font color="white">space</font>
 
 
 
