@@ -9,7 +9,6 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="natasha_harvard_photo.png">
 
 <img src="natasha_headshot_dilijan_2.png" width="100">
 
