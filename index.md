@@ -12,8 +12,10 @@ layout: default
 
 <img class="profile-picture" src="natasha_headshot_dilijan_1.jpeg">
 
+<img src="natasha_headshot_dilijan_1.jpeg" alt="Image" height="358" width="394">
 
-I am a first-year PhD Student in Geophysics at Harvard University, in the [Earthquake Seismology Group](https://quake.fas.harvard.edu/) advised by Dr. Marine Denolle. 
+
+I am a second-year PhD Student in Geophysics at Harvard University, in the [Earthquake Seismology Group](https://quake.fas.harvard.edu/) advised by Dr. Marine Denolle. 
 
 
 ## <font color="white">space</font>
@@ -42,6 +44,5 @@ One of our 10 broadband seismic stations and educational exhibits deployed acros
 natasha_toghramadjian@g.harvard.edu
 
 Geology Museum 200B
-20 Oxford Street
-Cambridge, MA 02138
-USA
+<br>20 Oxford Street
+<br>Cambridge, MA 02138
