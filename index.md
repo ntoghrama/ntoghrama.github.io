@@ -5,11 +5,11 @@ layout: default
 # Natasha Toghramadjian
 
 <img src="ararat2.png">
-<img src="harvard-logo.jpg">
+<img src="harvard-logo.jpg" width="100">
 
 ## About Me
 
-
+<img src="natasha_full.jpg">
 <img class="profile-picture" src="natasha_headshot_dilijan_2.png">
 
 
@@ -22,7 +22,8 @@ I am a second-year PhD Student in Geophysics at Harvard University, in the [Eart
 
 <img class="profile-picture" src="nsf_logo.png">
 
- My current research focuses on using ambient noise seismology to better understand and quantify ground motion amplification in sedimentary basins. I am particularly interested in how the seismic wavefield behaves at the basin edge, which I am now investigating in Seattle, especially the Seattle thrust fault, the Seattle basin's southern boundary. My research is supported by the [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/) and the [Harvard Ashford Fellowship](https://ashfordfellows.fas.harvard.edu/about).
+ My current research focuses on using ambient noise seismology to better understand and quantify ground motion amplification in sedimentary basins. I am particularly interested in how the seismic wavefield behaves at the basin edge, which I am now investigating in Seattle, especially the Seattle thrust fault, the Seattle basin's southern boundary. 
+ My research is supported by the [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/) and the [Harvard Ashford Fellowship](https://ashfordfellows.fas.harvard.edu/about).
 
 
 <img src="seattleBB_2.png">
