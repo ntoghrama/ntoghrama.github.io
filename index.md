@@ -47,5 +47,6 @@ Geology Museum 200B
 <br>20 Oxford Street
 <br>Cambridge, MA 02138
 
-<img src="rsz_harvard-logo.jpg">
-<img src="rsz_fulbright_logo.jpg">
+<img src="harvard-logo.jpg">
+<img src="fulbright-Logo.jpg">
+<img src="BCLogo.png">
