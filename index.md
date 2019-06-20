@@ -21,13 +21,13 @@ I am a second-year PhD Student in Geophysics at Harvard University, in the [Eart
 
 ## Research Interests
 
-<img class="profile-picture" src="nsf_logo.png">
-
  My current research centers on the Seattle sedimentary basin, where I deploy broadband and nodal seismometers to measure the ambient noise field. I cross-correlate these signals to investigate earthquake propagation in the basin--which, like other sedimentary basins around the world--is known to trap seismic energy and amplify ground motion during high-magnitude earthquakes. In particular, I am interested in the role played by the basin edges and the Seattle thrust fault.
 
 For large urban communities built atop sedimentary basins, this energy amplification means heightened seismic hazard. The desire to better understand and address this threat drives my research.
 
 We plan to produce improved seismic velocity models and localized ground motion prediction equations, which can be applied by seismic engineers to inform building codes and change policy. In the long-term we hope to help mitigate earthquake risk in cities across the globe by extending our basin edge and fault research beyond Seattle.
+
+<img class="profile-picture" src="nsf_logo.png">
 
  My research is supported by the [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/) and the [Harvard Ashford Fellowship](https://ashfordfellows.fas.harvard.edu/about).
 
