@@ -25,9 +25,9 @@ I am a second-year PhD Student in Geophysics at Harvard University, in the [Eart
 
 For large urban communities built atop sedimentary basins, this energy amplification means heightened seismic hazard. The desire to better understand and address this threat drives my research.
 
-We plan to produce improved seismic velocity models and localized ground motion prediction equations, which can be applied by seismic engineers to inform building codes and change policy. In the long-term we hope to help mitigate earthquake risk in cities across the globe by extending our basin edge and fault research beyond Seattle.
-
 <img class="profile-picture" src="nsf_logo.png">
+
+We plan to produce improved seismic velocity models and localized ground motion prediction equations, which can be applied by seismic engineers to inform building codes and change policy. In the long-term we hope to help mitigate earthquake risk in cities across the globe by extending our basin edge and fault research beyond Seattle.
 
  My research is supported by the [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/) and the [Harvard Ashford Fellowship](https://ashfordfellows.fas.harvard.edu/about).
 
@@ -48,3 +48,7 @@ natasha_toghramadjian@g.harvard.edu
 Geology Museum 200B
 <br>20 Oxford Street
 <br>Cambridge, MA 02138
+
+
+<img src="harvard-logo.jpg" width="100">
+<img src="Fulbright_logo.jpg" width="100">
