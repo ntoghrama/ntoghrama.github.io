@@ -48,5 +48,3 @@ Geology Museum 200B
 <br>Cambridge, MA 02138
 
 <img src="harvard-logo.jpg">
-<img src="fulbright-Logo.jpg">
-<img src="BCLogo.png">
