@@ -5,7 +5,6 @@ layout: default
 # Natasha Toghramadjian
 
 <img src="ararat2.png">
-<img src="harvard-logo.jpg" width="100">
 
 ## About Me
 
@@ -16,7 +15,6 @@ layout: default
 I am a second-year PhD Student in Geophysics at Harvard University, in the [Earthquake Seismology Group](https://quake.fas.harvard.edu/) advised by Dr. Marine Denolle. 
 
 
-## <font color="white">space</font>
 
 
 ## Research Interests
