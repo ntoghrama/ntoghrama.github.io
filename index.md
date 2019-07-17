@@ -21,7 +21,7 @@ I am a second-year PhD Student in Geophysics at Harvard University, in the [Eart
 
 **Ground motion amplification and crustal tomographic imaging**
 
- My current research centers on the Seattle sedimentary basin, where I deploy broadband and nodal seismometers to measure the ambient noise field. I cross-correlate these signals to investigate earthquake propagation in the basin--which, like other sedimentary basins around the world--is known to trap seismic energy and amplify ground motion during high-magnitude earthquakes. In particular, I am interested in the role played by the basin edges and the Seattle thrust fault.
+ My current research centers on the Seattle sedimentary basin, where I deploy broadband and nodal seismometers to measure the ambient noise field. I cross-correlate these signals to investigate earthquake propagation in the basin---which, like other sedimentary basins around the world---is known to trap seismic energy and amplify ground motion during high-magnitude earthquakes. In particular, I am interested in the role played by the basin edges and the Seattle thrust fault.
 
 For large urban communities built atop sedimentary basins, this energy amplification means heightened seismic hazard. The desire to better understand and address this threat drives my research.
 
