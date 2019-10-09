@@ -7,9 +7,11 @@ layout: default
 <img src="ararat2.png">
 
 ## About Me
-I am a second-year PhD Student in Geophysics at Harvard University, advised by Dr. Marine Denolle in the [Earthquake Seismology Group](https://quake.fas.harvard.edu/).
 
 <img src="dilijan_shape_3.png">
+
+I am a second-year PhD Student in Geophysics at Harvard University, advised by Dr. Marine Denolle in the [Earthquake Seismology Group](https://quake.fas.harvard.edu/).
+
 
 
 ## Research Interests
@@ -38,7 +40,7 @@ One of our 10 broadband seismic stations and educational exhibits deployed acros
 
 <img src="seattle_3.png">
 
-                                     A helper joined us for field work!
+                            A helper joined us for field work!
 
 ## Contact
 
