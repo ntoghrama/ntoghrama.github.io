@@ -7,14 +7,13 @@ layout: default
 <img src="ararat2.png">
 
 ## About Me
-hi
-<img src="natasha_headshot_dilijan_2.png" class="profile-picture">
 
-<img src="seattle_pic_2 copy.jpg">
+<img src="natasha_headshot_dilijan_2.png" class="profile-picture">
+<img src="dilijan_shape.png">
 
 <img src="natasha_headshot_dilijan_2.png" width="200" height="50" />
 
-![](natasha_headshot_dilijan_2.png){:width="100px"}
+![](natasha_headshot_dilijan_2.png){:height="300px" width="100px"}
 
 I am a second-year PhD Student in Geophysics at Harvard University, advised by Dr. Marine Denolle in the [Earthquake Seismology Group](https://quake.fas.harvard.edu/).
 
@@ -44,6 +43,9 @@ One of our 10 broadband seismic stations and educational exhibits deployed acros
 1. Lilit Sargsyan, **Natasha E. Toghramadjian**, Alan L. Kafka; Cellular Seismology Analysis of Reservoir‐Triggered Seismicity Associated with Armenian Dams. Bulletin of the Seismological Society of America; 108 (5B): 3126–3140. doi: [https://doi.org/10.1785/0120180014]
 
 ---
+
+<img src="seattle_pic_2 copy.jpg">
+
 
 ## Contact
 
