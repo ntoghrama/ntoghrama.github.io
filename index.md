@@ -9,11 +9,8 @@ layout: default
 ## About Me
 
 <img src="natasha_headshot_dilijan_2.png" class="profile-picture">
-<img src="dilijan_shape.png">
+<img src="dilijan_shape_2.png">
 
-<p align="center">
-    <img src="natasha_headshot_dilijan_2.png">
-</p>
 
 I am a second-year PhD Student in Geophysics at Harvard University, advised by Dr. Marine Denolle in the [Earthquake Seismology Group](https://quake.fas.harvard.edu/).
 
@@ -44,7 +41,7 @@ One of our 10 broadband seismic stations and educational exhibits deployed acros
 
 ---
 
-<img src="seattle_pic_2 copy.jpg">
+<img src="seattle_3.jpg">
 
 
 ## Contact
