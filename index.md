@@ -8,16 +8,16 @@ layout: default
 
 ## About Me
 
+hi
+<img src="natasha_headshot_dilijan_2.png" class="profile-picture">
 
-<img src="natasha_headshot_dilijan_2.jpeg" class="profile-picture">
+<img src="seattle_pic_2 copy.jpg">
 
-<img src="seattle_pic_2.jpeg">
-
-![](natasha_headshot_dilijan_2.jpeg =100x200)
-<img src="natasha_headshot_dilijan_2.jpeg" width="200" height="200" />
+![](natasha_headshot_dilijan_2.png =100x200)
+<img src="natasha_headshot_dilijan_2.png" width="200" height="200" />
 
 
-![](/img/natasha_headshot_dilijan_2.jpg){:height="300px" width="400px"}
+![](natasha_headshot_dilijan_2.png){:height="300px" width="400px"}
 
 I am a second-year PhD Student in Geophysics at Harvard University, advised by Dr. Marine Denolle in the [Earthquake Seismology Group](https://quake.fas.harvard.edu/).
 
