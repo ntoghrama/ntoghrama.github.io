@@ -41,7 +41,7 @@ One of our 10 broadband seismic stations and educational exhibits deployed acros
 
 ---
 
-<img src="seattle_3.jpg">
+<img src="seattle_3.png">
 
 
 ## Contact
