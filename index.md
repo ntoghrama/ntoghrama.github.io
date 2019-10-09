@@ -9,7 +9,7 @@ layout: default
 ## About Me
 
 
-<img src="natasha_headshot_dilijan_2.jpg" class="profile-picture" width="100" />
+<img src="natasha_headshot_dilijan_2.jpg" class="profile-picture">
 
 <img src="seattle_pic_2.jpg">
 
