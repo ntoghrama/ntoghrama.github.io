@@ -9,7 +9,7 @@ layout: default
 ## About Me
 
 
-<img class="thumbnail" src="natasha_headshot_dilijan_2.png">
+<img class="profile-pic" src="natasha_headshot_dilijan_2.png">
 
 
 I am a second-year PhD Student in Geophysics at Harvard University, in the [Earthquake Seismology Group](https://quake.fas.harvard.edu/) advised by Dr. Marine Denolle. 
@@ -21,7 +21,7 @@ I am a second-year PhD Student in Geophysics at Harvard University, in the [Eart
 
 **Ground motion amplification and crustal tomographic imaging**
 
- My current research centers on the Seattle sedimentary basin, where I [deploy broadband and nodal seismometers] (https://www.king5.com/article/news/local/researchers-will-install-monitors-to-study-seattle-earthquake-fault-zone/281-ab395842-a46b-4ebf-baeb-0b1b623f7ffb) to measure the ambient noise field. I cross-correlate these signals to investigate earthquake propagation in the basin&mdash;&mdash;which, like other sedimentary basins around the world&mdash;&mdash;is known to trap seismic energy and amplify ground motion during high-magnitude earthquakes. In particular, I am interested in the role played by the basin edges and the Seattle thrust fault.
+ My current research centers on the Seattle sedimentary basin, where I [deploy broadband and nodal seismometers](https://www.king5.com/article/news/local/researchers-will-install-monitors-to-study-seattle-earthquake-fault-zone/281-ab395842-a46b-4ebf-baeb-0b1b623f7ffb) to measure the ambient noise field. I cross-correlate these signals to investigate earthquake propagation in the basin&mdash;&mdash;which, like other sedimentary basins around the world&mdash;&mdash;is known to trap seismic energy and amplify ground motion during high-magnitude earthquakes. In particular, I am interested in the role played by the basin edges and the Seattle thrust fault.
 
 For large urban communities built atop sedimentary basins, this energy amplification means heightened seismic hazard. The desire to better understand and address this threat drives my research.
 
