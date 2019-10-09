@@ -11,9 +11,9 @@ layout: default
 <img src="natasha_headshot_dilijan_2.png" class="profile-picture">
 <img src="dilijan_shape.png">
 
-<img src="natasha_headshot_dilijan_2.png" width="200" height="50" />
-
-![](natasha_headshot_dilijan_2.png){:height="300px" width="100px"}
+<p align="center">
+    <img src="natasha_headshot_dilijan_2.png">
+</p>
 
 I am a second-year PhD Student in Geophysics at Harvard University, advised by Dr. Marine Denolle in the [Earthquake Seismology Group](https://quake.fas.harvard.edu/).
 
