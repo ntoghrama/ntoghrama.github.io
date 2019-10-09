@@ -9,7 +9,7 @@ layout: default
 ## About Me
 
 
-<img src="seattle_pic_1.HEIC">
+<img src="seattle_pic_1.jpeg">
 
 I am a second-year PhD Student in Geophysics at Harvard University, in the [Earthquake Seismology Group](https://quake.fas.harvard.edu/) advised by Dr. Marine Denolle. 
 
