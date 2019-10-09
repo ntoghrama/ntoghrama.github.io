@@ -8,7 +8,6 @@ layout: default
 
 ## About Me
 
-<img src="natasha_headshot_dilijan_2.png" class="profile-picture">
 <img src="dilijan_shape_3.png">
 
 
@@ -43,7 +42,7 @@ One of our 10 broadband seismic stations and educational exhibits deployed acros
 
 <img src="seattle_3.png">
 
-A helper joined us for field work!
+->A helper joined us for field work!<-
 
 ## Contact
 
