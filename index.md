@@ -7,14 +7,14 @@ layout: default
 <img src="ararat2.png">
 
 ## About Me
-
+hi
 <img src="natasha_headshot_dilijan_2.png" class="profile-picture">
 
 <img src="seattle_pic_2 copy.jpg">
 
 <img src="natasha_headshot_dilijan_2.png" width="200" height="50" />
 
-![](natasha_headshot_dilijan_2.png){:height="300px" width="100px"}
+![](natasha_headshot_dilijan_2.png){:width="100px"}
 
 I am a second-year PhD Student in Geophysics at Harvard University, advised by Dr. Marine Denolle in the [Earthquake Seismology Group](https://quake.fas.harvard.edu/).
 
