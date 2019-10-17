@@ -8,7 +8,7 @@ layout: default
 
 ## About Me
 
-<img src="dilijan_shape_5.png">
+<img src="dilijan_shape_6.png">
 
 I am a second-year PhD Student in Geophysics and NSF GRFP Fellow at Harvard University, advised by Dr. Marine Denolle in the [Earthquake Seismology Group](https://quake.fas.harvard.edu/).
 
