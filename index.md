@@ -50,7 +50,6 @@ One of our 10 broadband seismic stations and educational exhibits deployed acros
 
 &nbsp;
 &nbsp;
-&nbsp;
 
 In addition to the technical aspects of geophysics, I especially enjoy working in the field and connecting my research to local communities. I prioritize engaging with and understanding the human dimension of each project. 
 
