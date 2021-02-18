@@ -14,6 +14,8 @@ I am a second-year PhD Student in Geophysics and NSF GRFP Fellow at Harvard Univ
 
  My research is supported by the [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/) and the [Harvard Ashford Fellowship](https://ashfordfellows.fas.harvard.edu/about).
 
+ <img class="profile-picture" src="nsf_logo.png">
+
 ## Research Interests
 
 **New Perspectives on Newport-Inglewood Fault Geometry**
@@ -25,6 +27,7 @@ In the absence of robust seismologial data from a recent large earthquake, I lev
 This work has direct implications for seismic hazard assessments in the Los Angeles metro area and is a key step toward understanding the tectonic history of Southern California.
 
 <img src="NIF_photo5.png">
+A 3D overview of the independent datasets I'm using to both mechnically construct and objectively interpolate the 3D subsurface geometry of the Newport-Inglewood Fault.
 
 
 **Ground motion amplification and crustal tomographic imaging in Seattle**
@@ -49,8 +52,6 @@ One of our 10 broadband seismic stations and educational exhibits deployed acros
 
 [//]: # We plan to produce improved seismic velocity models and localized ground motion prediction equations, which can be applied by seismic engineers to inform building codes and change policy. In the long-term we hope to help mitigate earthquake risk in cities across the globe by extending our basin edge and fault research beyond Seattle.
 
-
-<img class="profile-picture" src="nsf_logo.png">
 
 
 
