@@ -47,9 +47,10 @@ For large urban communities built atop sedimentary basins, this energy amplifica
 One of our 10 broadband seismic stations and educational exhibits deployed across downtown Seattle in 2019.
 
 &nbsp;
-&nbsp;
 
 In addition to the technical aspects of geophysics, I especially enjoy working in the field and connecting my research to local communities. I prioritize engaging with and understanding the human dimension of each project. 
+
+&nbsp;
 
 [//]: # **Ground motion amplification and crustal tomographic imaging**
 
