@@ -47,11 +47,10 @@ One of our 10 broadband seismic stations and educational exhibits deployed acros
 
 [//]: # For large urban communities built atop sedimentary basins, this energy amplification means heightened seismic hazard. The desire to better understand and address this threat drives my research.
 
-[//]: # <img class="profile-picture" src="nsf_logo.png">
-
 [//]: # We plan to produce improved seismic velocity models and localized ground motion prediction equations, which can be applied by seismic engineers to inform building codes and change policy. In the long-term we hope to help mitigate earthquake risk in cities across the globe by extending our basin edge and fault research beyond Seattle.
 
 
+<img class="profile-picture" src="nsf_logo.png">
 
 
 
