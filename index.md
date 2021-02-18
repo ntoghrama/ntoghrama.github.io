@@ -34,7 +34,7 @@ This work has direct implications for seismic hazard assessments in the Los Ange
 <img src="NIF_photo5.png">
 
 
-A 3D overview of the independent datasets I'm using to both mechnically construct and objectively interpolate the 3D subsurface geometry of the Newport-Inglewood Fault.
+A 3D overview of the independent datasets I'm using to both manually construct and objectively interpolate the 3D subsurface geometry of the Newport-Inglewood Fault.
 
 
 **Ground motion amplification and crustal tomographic imaging in Seattle**
