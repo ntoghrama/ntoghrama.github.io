@@ -10,15 +10,16 @@ layout: default
 
 <img src="dilijan_shape_6.png">
 
-I am a second-year PhD Student in Geophysics and NSF GRFP Fellow at Harvard University, advised by Prof. John Shaw in the [Structural Geology & Earth Resources Group](https://https://structure.harvard.edu/).
+I am a second-year PhD Student in Geophysics and NSF GRFP Fellow at Harvard University, advised by Prof. John H. Shaw in the [Structural Geology & Earth Resources Group](https://https://structure.harvard.edu/).
 
 
 
 ## Research Interests
+ My current research centers on
 
 **Ground motion amplification and crustal tomographic imaging**
 
- My current research centers on the Seattle sedimentary basin, where I [deploy broadband and nodal seismometers](https://www.king5.com/article/news/local/researchers-will-install-monitors-to-study-seattle-earthquake-fault-zone/281-ab395842-a46b-4ebf-baeb-0b1b623f7ffb) to measure the ambient noise field. I cross-correlate these signals to investigate earthquake propagation in the basin&mdash;&mdash;which, like other sedimentary basins around the world&mdash;&mdash;is known to trap seismic energy and amplify ground motion during high-magnitude earthquakes. In particular, I am interested in the role played by the basin edges and the Seattle thrust fault.
+I have also studied the Seattle sedimentary basin and fault zone, where I've [deployed 100+ broadband and nodal seismometers](https://www.king5.com/article/news/local/researchers-will-install-monitors-to-study-seattle-earthquake-fault-zone/281-ab395842-a46b-4ebf-baeb-0b1b623f7ffb) to measure the ambient noise field. I cross-correlate these signals to investigate earthquake propagation in the basin&mdash;&mdash;which, like other sedimentary basins around the world&mdash;&mdash;is known to trap seismic energy and amplify ground motion during high-magnitude earthquakes. In particular, I am interested in the role played by the basin edges and the Seattle thrust fault.
 
 For large urban communities built atop sedimentary basins, this energy amplification means heightened seismic hazard. The desire to better understand and address this threat drives my research.
 
@@ -38,7 +39,7 @@ One of our 10 broadband seismic stations and educational exhibits deployed acros
 
 ---
 
-<img src="seattle_3.png">
+# <img src="seattle_3.png">
 
                                 A helper joined us for field work!
 
