@@ -41,9 +41,9 @@ A 3D overview of the independent datasets I'm using to both mechnically construc
 
 **Ground motion amplification and crustal tomographic imaging in Seattle**
 
-I've also studied the Seattle basin and fault zone using ambient noise seismology to investigate how seismic waves are amplified within sedimentary basins and reflected by their edges. 
-To measure the ambient seismic field, I've  [deployed 100+ broadband and nodal seismometers](https://www.king5.com/article/news/local/researchers-will-install-monitors-to-study-seattle-earthquake-fault-zone/281-ab395842-a46b-4ebf-baeb-0b1b623f7ffb) 
+I have also studied the Seattle sedimentary basin and fault zone, where I've [deployed 100+ broadband and nodal seismometers](https://www.king5.com/article/news/local/researchers-will-install-monitors-to-study-seattle-earthquake-fault-zone/281-ab395842-a46b-4ebf-baeb-0b1b623f7ffb), hosted at schools, churches, small businesses, and family backyards, to measure the ambient noise field. I cross-correlate these signals to investigate earthquake propagation in the basin&mdash;&mdash;which, like other sedimentary basins around the world&mdash;&mdash;is known to trap seismic energy and amplify ground motion during high-magnitude earthquakes. In particular, I am interested in the role played by the basin edges and the Seattle thrust fault.
 
+For large urban communities built atop sedimentary basins, this energy amplification means heightened seismic hazard. We plan to produce improved seismic velocity models and localized ground motion prediction equations, which can be applied by seismic engineers to inform building codes and change policy.
 
 In addition to the technical aspects of geophysics, I especially enjoy working in the field and connecting my research to local communities. I prioritize engaging with and understanding the human dimension of each project. 
 
@@ -55,13 +55,18 @@ One of our 10 broadband seismic stations and educational exhibits deployed acros
 
 [//]: # **Ground motion amplification and crustal tomographic imaging**
 
-[//]: # I have also studied the Seattle sedimentary basin and fault zone, where I've [deployed 100+ broadband and nodal seismometers](https://www.king5.com/article/news/local/researchers-will-install-monitors-to-study-seattle-earthquake-fault-zone/281-ab395842-a46b-4ebf-baeb-0b1b623f7ffb) to measure the ambient noise field. I cross-correlate these signals to investigate earthquake propagation in the basin&mdash;&mdash;which, like other sedimentary basins around the world&mdash;&mdash;is known to trap seismic energy and amplify ground motion during high-magnitude earthquakes. In particular, I am interested in the role played by the basin edges and the Seattle thrust fault.
+[//]: # I have also studied the Seattle sedimentary basin and fault zone, where I've [deployed 100+ broadband and nodal seismometers](https://www.king5.com/article/news/local/researchers-will-install-monitors-to-study-seattle-earthquake-fault-zone/281-ab395842-a46b-4ebf-baeb-0b1b623f7ffb), hosted at schools, churches, small businesses, and family backyards, to measure the ambient noise field. I cross-correlate these signals to investigate earthquake propagation in the basin&mdash;&mdash;which, like other sedimentary basins around the world&mdash;&mdash;is known to trap seismic energy and amplify ground motion during high-magnitude earthquakes. In particular, I am interested in the role played by the basin edges and the Seattle thrust fault.
 
 [//]: # For large urban communities built atop sedimentary basins, this energy amplification means heightened seismic hazard. The desire to better understand and address this threat drives my research.
 
 [//]: # We plan to produce improved seismic velocity models and localized ground motion prediction equations, which can be applied by seismic engineers to inform building codes and change policy. In the long-term we hope to help mitigate earthquake risk in cities across the globe by extending our basin edge and fault research beyond Seattle.
 
 
+[//]: # I've also studied the Seattle basin and fault zone, using ambient noise seismology to investigate how seismic waves are amplified within sedimentary basins and reflected by their edges. 
+
+[//]: # To measure the ambient seismic field, I've  [deployed 100+ broadband and nodal seismometers](https://www.king5.com/article/news/local/researchers-will-install-monitors-to-study-seattle-earthquake-fault-zone/281-ab395842-a46b-4ebf-baeb-0b1b623f7ffb) across the Seattle area, hosting these instruments at schools, churches, small businesses, and family backyards.
+
+[//]: # I cross-correlate ambient noise recordings to investigate earthquake propagation in the basin, which&mdash;&mdash;like other sedimentary basins around the world&mdash;&mdash;is known to trap seismic energy and amplify ground motion during high-magnitude earthquakes. In particular, I am interested in the role played by the basin edges and the Seattle thrust fault.
 
 
 ## Publications
