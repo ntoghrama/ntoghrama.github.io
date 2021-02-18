@@ -50,13 +50,12 @@ I have also studied the Seattle sedimentary basin and fault zone, where I've [de
 
 For large urban communities built atop sedimentary basins, this energy amplification means heightened seismic hazard. We plan to produce improved seismic velocity models and localized ground motion prediction equations, which can be applied by seismic engineers to inform building codes and change policy.
 
-In addition to the technical aspects of geophysics, I especially enjoy working in the field and connecting my research to local communities. I prioritize engaging with and understanding the human dimension of each project. 
 
 <img src="seattleBB_2.png">
 
 One of our 10 broadband seismic stations and educational exhibits deployed across downtown Seattle in 2019.
 
-
+In addition to the technical aspects of geophysics, I especially enjoy working in the field and connecting my research to local communities. I prioritize engaging with and understanding the human dimension of each project. 
 
 [//]: # **Ground motion amplification and crustal tomographic imaging**
 
