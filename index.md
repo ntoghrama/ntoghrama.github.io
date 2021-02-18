@@ -15,7 +15,7 @@ I am a second-year PhD Student in Geophysics and NSF GRFP Fellow at Harvard Univ
 
 
 ## Research Interests
- My current research centers on
+[//]: # My current research centers on
 
 **Ground motion amplification and crustal tomographic imaging**
 
@@ -39,9 +39,9 @@ One of our 10 broadband seismic stations and educational exhibits deployed acros
 
 ---
 
-# <img src="seattle_3.png">
+[//]: # <img src="seattle_3.png">
 
-                                A helper joined us for field work!
+[//]: #                                A helper joined us for field work!
 
 ## Contact
 
