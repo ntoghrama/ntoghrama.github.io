@@ -12,9 +12,11 @@ layout: default
 
 I am a second-year PhD Student in Geophysics and NSF GRFP Fellow at Harvard University, advised by Prof. John H. Shaw in the [Structural Geology & Earth Resources Group](https://https://structure.harvard.edu/).
 
+ <img class="profile-picture" src="nsf_logo.png">
+
  My research is supported by the [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/) and the [Harvard Ashford Fellowship](https://ashfordfellows.fas.harvard.edu/about).
 
- <img class="profile-picture" src="nsf_logo.png">
+
 
 ## Research Interests
 
@@ -27,6 +29,8 @@ In the absence of robust seismologial data from a recent large earthquake, I lev
 This work has direct implications for seismic hazard assessments in the Los Angeles metro area and is a key step toward understanding the tectonic history of Southern California.
 
 <img src="NIF_photo5.png">
+
+
 A 3D overview of the independent datasets I'm using to both mechnically construct and objectively interpolate the 3D subsurface geometry of the Newport-Inglewood Fault.
 
 
