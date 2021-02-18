@@ -18,8 +18,8 @@ I am a third-year PhD Student in Geophysics and NSF GRFP Fellow in the [Structur
 
  <img class="profile-picture" src="nsf_logo.png">
 
-
-
+&nbsp;
+&nbsp;
 
 ## Research Interests
 
