@@ -14,12 +14,11 @@ I am a third-year PhD Student in Geophysics and NSF GRFP Fellow in the [Structur
 
 &nbsp;
 &nbsp;
+&nbsp;
 
  <img class="profile-picture" src="nsf_logo.png">
 
- My research is supp
-&nbsp;
-orted by the [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/) and the [Harvard Ashford Fellowship](https://ashfordfellows.fas.harvard.edu/about).
+ My research is supported by the [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/) and the [Harvard Ashford Fellowship](https://ashfordfellows.fas.harvard.edu/about).
 
 
 
@@ -49,6 +48,10 @@ For large urban communities built atop sedimentary basins, this energy amplifica
 <img src="seattleBB_2.png">
 
 One of our 10 broadband seismic stations and educational exhibits deployed across downtown Seattle in 2019.
+
+&nbsp;
+&nbsp;
+&nbsp;
 
 In addition to the technical aspects of geophysics, I especially enjoy working in the field and connecting my research to local communities. I prioritize engaging with and understanding the human dimension of each project. 
 
