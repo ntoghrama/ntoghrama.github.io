@@ -10,7 +10,7 @@ layout: default
 
 <img src="dilijan_shape_6.png">
 
-I am a second-year PhD Student in Geophysics and NSF GRFP Fellow at Harvard University, advised by Prof. John H. Shaw in the [Structural Geology & Earth Resources Group](https://https://structure.harvard.edu/).
+I am a third-year PhD Student in Geophysics and NSF GRFP Fellow in the [Structural Geology & Earth Resources Group](https://https://structure.harvard.edu/) at Harvard University, advised by Prof. John H. Shaw.
 
  <img class="profile-picture" src="nsf_logo.png">
 
@@ -24,7 +24,7 @@ I am a second-year PhD Student in Geophysics and NSF GRFP Fellow at Harvard Univ
 
 My current research centers on the Newport-Inglewood Fault, a tectonically active right-lateral system that extends for more than 40 km across the Los Angeles basin, California, and last ruptured in the 1933 Mw 6.4 Long Beach earthquake. The fault poses significant seismic hazard to the nearly 20 million people living in the greater LA metropolitan area.
 
-In the absence of robust seismologial data from a recent large earthquake, I leverage numerous diverse, independent data sets--2D and 3D seismic reflection surveys, robust stratigraphic controls from decades of oil industry well records, and hypocenter and focal mechanism catalogs recently expanded through template-matching--to develop 3D fault representations. These data are used as weighted interpolation constraints, following the objective and reproducible method of Riesner et al. (2017).
+In the absence of robust seismologial data from a recent large earthquake, I leverage numerous diverse, independent data sets&mdash;&mdash;2D and 3D seismic reflection surveys, robust stratigraphic controls from decades of oil industry well records, and hypocenter and focal mechanism catalogs recently expanded through template-matching&mdash;&mdash;to develop 3D fault representations. These data are used as weighted interpolation constraints, following the objective and reproducible method of Riesner et al. (2017).
 
 This work has direct implications for seismic hazard assessments in the Los Angeles metro area and is a key step toward understanding the tectonic history of Southern California.
 
