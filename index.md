@@ -9,13 +9,11 @@ layout: default
 ## About Me
 
 <img src="dilijan_shape_6.png">
-<img class="profile-picture" src="nsf_logo.png">
 
 I am a third-year PhD Student in Geophysics and NSF GRFP Fellow in the [Structural Geology & Earth Resources Group](https://https://structure.harvard.edu/) at Harvard University, advised by Professor John H. Shaw.
 
  My research is supported by the [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/) and the [Harvard Ashford Fellowship](https://ashfordfellows.fas.harvard.edu/about).
 
-[//]: # <img src="nsf_logo_small.png">
 
 &nbsp;
 &nbsp;
@@ -35,11 +33,8 @@ This work has direct implications for seismic hazard assessments in the Los Ange
 <img src="NIF_photo5.png">
 
 
-A 3D overview of the independent datasets I'm using to both manually construct and objectively interpolate the 3D subsurface geometry of the Newport-Inglewood Fault.
+*A 3D overview of the independent datasets I'm using to both manually construct and objectively interpolate the 3D subsurface geometry of the Newport-Inglewood Fault.*
 
-&nbsp;
-<img class="profile-picture" src="nsf_logo.png">
-&nbsp;
 
 **Ground motion amplification and crustal tomographic imaging in Seattle**
 
@@ -50,16 +45,11 @@ For large urban communities built atop sedimentary basins, this energy amplifica
 
 <img src="seattleBB_2.png">
 
-One of our 10 broadband seismic stations and educational exhibits deployed across downtown Seattle in 2019.
+*One of our 10 broadband seismic stations and educational exhibits deployed across downtown Seattle in 2019.*
 
-&nbsp;
 
 In addition to the technical aspects of geophysics, I especially enjoy working in the field and connecting my research to local communities. I prioritize engaging with and understanding the human dimension of each project. 
 
-&nbsp;
-&nbsp;
-<img class="profile-picture" src="nsf_logo.png">
-&nbsp;
 &nbsp;
 
 [//]: # **Ground motion amplification and crustal tomographic imaging**
