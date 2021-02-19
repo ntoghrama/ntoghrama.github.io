@@ -14,9 +14,11 @@ I am a third-year PhD Student in Geophysics and NSF GRFP Fellow in the [Structur
 
  My research is supported by the [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/) and the [Harvard Ashford Fellowship](https://ashfordfellows.fas.harvard.edu/about).
 
+<img src="nsf_logo_small.png">
+
 &nbsp;
 &nbsp;
-<img class="profile-picture" src="nsf_logo.png">
+[//]: # <img class="profile-picture" src="nsf_logo.png">
 &nbsp;
 
 ## Research Interests
@@ -53,7 +55,7 @@ In addition to the technical aspects of geophysics, I especially enjoy working i
 
 &nbsp;
 &nbsp;
-<img class="profile-picture" src="nsf_logo.png">
+[//]: # <img class="profile-picture" src="nsf_logo.png">
 &nbsp;
 &nbsp;
 
