@@ -10,7 +10,7 @@ layout: default
 
 <img src="dilijan_shape_6.png">
 
-I am a third-year PhD Student in Geophysics and NSF GRFP Fellow in the [Structural Geology & Earth Resources Group](https://https://structure.harvard.edu/) at Harvard University, advised by Prof. John H. Shaw.
+I am a third-year PhD Student in Geophysics and NSF GRFP Fellow in the [Structural Geology & Earth Resources Group](https://https://structure.harvard.edu/) at Harvard University, advised by Professor John H. Shaw.
 
  My research is supported by the [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/) and the [Harvard Ashford Fellowship](https://ashfordfellows.fas.harvard.edu/about).
 
@@ -51,6 +51,10 @@ One of our 10 broadband seismic stations and educational exhibits deployed acros
 
 In addition to the technical aspects of geophysics, I especially enjoy working in the field and connecting my research to local communities. I prioritize engaging with and understanding the human dimension of each project. 
 
+&nbsp;
+&nbsp;
+<img class="profile-picture" src="nsf_logo.png">
+&nbsp;
 &nbsp;
 
 [//]: # **Ground motion amplification and crustal tomographic imaging**
