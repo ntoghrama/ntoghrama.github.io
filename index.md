@@ -12,6 +12,10 @@ layout: default
 
 I am a third-year PhD Student in Geophysics and NSF GRFP Fellow in the [Structural Geology & Earth Resources Group](https://https://structure.harvard.edu/) at Harvard University, advised by Prof. John H. Shaw.
 
+&nbsp;
+<img class="profile-picture" src="nsf_logo.png">
+&nbsp;
+
  My research is supported by the [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/) and the [Harvard Ashford Fellowship](https://ashfordfellows.fas.harvard.edu/about).
 
 &nbsp;
@@ -65,11 +69,6 @@ In addition to the technical aspects of geophysics, I especially enjoy working i
 
 [//]: # I cross-correlate ambient noise recordings to investigate earthquake propagation in the basin, which&mdash;&mdash;like other sedimentary basins around the world&mdash;&mdash;is known to trap seismic energy and amplify ground motion during high-magnitude earthquakes. In particular, I am interested in the role played by the basin edges and the Seattle thrust fault.
 
-
-&nbsp;
-<img class="profile-picture" src="nsf_logo.png">
-
-[//]: #  <img src="nsf_logo.png">
 
 
 ## Publications
