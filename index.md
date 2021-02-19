@@ -66,10 +66,10 @@ In addition to the technical aspects of geophysics, I especially enjoy working i
 [//]: # I cross-correlate ambient noise recordings to investigate earthquake propagation in the basin, which&mdash;&mdash;like other sedimentary basins around the world&mdash;&mdash;is known to trap seismic energy and amplify ground motion during high-magnitude earthquakes. In particular, I am interested in the role played by the basin edges and the Seattle thrust fault.
 
 
-
-[//]: #  <img class="profile-picture" src="nsf_logo.png">
-<img src="nsf_logo.png">
 &nbsp;
+<img class="profile-picture" src="nsf_logo.png">
+[//]: #  <img src="nsf_logo.png">
+
 
 ## Publications
 
