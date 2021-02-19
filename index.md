@@ -9,6 +9,7 @@ layout: default
 ## About Me
 
 <img src="dilijan_shape_6.png">
+<img class="profile-picture" src="nsf_logo.png">
 
 I am a third-year PhD Student in Geophysics and NSF GRFP Fellow in the [Structural Geology & Earth Resources Group](https://https://structure.harvard.edu/) at Harvard University, advised by Professor John H. Shaw.
 
@@ -36,6 +37,8 @@ This work has direct implications for seismic hazard assessments in the Los Ange
 
 A 3D overview of the independent datasets I'm using to both manually construct and objectively interpolate the 3D subsurface geometry of the Newport-Inglewood Fault.
 
+&nbsp;
+<img class="profile-picture" src="nsf_logo.png">
 &nbsp;
 
 **Ground motion amplification and crustal tomographic imaging in Seattle**
