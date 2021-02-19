@@ -68,6 +68,7 @@ In addition to the technical aspects of geophysics, I especially enjoy working i
 
 &nbsp;
 <img class="profile-picture" src="nsf_logo.png">
+
 [//]: #  <img src="nsf_logo.png">
 
 
