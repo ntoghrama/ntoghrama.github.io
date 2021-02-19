@@ -14,9 +14,6 @@ I am a third-year PhD Student in Geophysics and NSF GRFP Fellow in the [Structur
 
  My research is supported by the [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/) and the [Harvard Ashford Fellowship](https://ashfordfellows.fas.harvard.edu/about).
 
- <img class="profile-picture" src="nsf_logo.png">
-
-&nbsp;
 &nbsp;
 
 ## Research Interests
@@ -69,6 +66,10 @@ In addition to the technical aspects of geophysics, I especially enjoy working i
 [//]: # I cross-correlate ambient noise recordings to investigate earthquake propagation in the basin, which&mdash;&mdash;like other sedimentary basins around the world&mdash;&mdash;is known to trap seismic energy and amplify ground motion during high-magnitude earthquakes. In particular, I am interested in the role played by the basin edges and the Seattle thrust fault.
 
 
+
+ <img class="profile-picture" src="nsf_logo.png">
+
+ 
 ## Publications
 
 1. Lilit Sargsyan, **Natasha E. Toghramadjian**, Alan L. Kafka; Cellular Seismology Analysis of Reservoir‐Triggered Seismicity Associated with Armenian Dams. Bulletin of the Seismological Society of America; 108 (5B): 3126–3140. doi: [https://doi.org/10.1785/0120180014]
