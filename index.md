@@ -67,9 +67,10 @@ In addition to the technical aspects of geophysics, I especially enjoy working i
 
 
 
- <img class="profile-picture" src="nsf_logo.png">
+[//]: #  <img class="profile-picture" src="nsf_logo.png">
+<img src="nsf_logo.png">
+&nbsp;
 
- 
 ## Publications
 
 1. Lilit Sargsyan, **Natasha E. Toghramadjian**, Alan L. Kafka; Cellular Seismology Analysis of Reservoir‐Triggered Seismicity Associated with Armenian Dams. Bulletin of the Seismological Society of America; 108 (5B): 3126–3140. doi: [https://doi.org/10.1785/0120180014]
