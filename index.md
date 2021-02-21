@@ -16,8 +16,6 @@ I am a third-year PhD Student in Geophysics and NSF GRFP Fellow in the [Structur
 
 My research is supported by the [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/) and the [Harvard Ashford Fellowship](https://ashfordfellows.fas.harvard.edu/about).
 
-&nbsp;
-
 I received my B.S. in Geological Sciences with a minor in Physics from Boston College in 2017. After graduating, I spent a year in Armenia on a Fulbright Research Grant, studying reservoir-triggered seismicity and the subsurface structure of the Caucasus Mountains, as well as the role scientific collaboration can play in improving international relationships.
 
 &nbsp;
