@@ -12,7 +12,7 @@ layout: default
 
 <img class="profile-picture" src="nsf_logo.png">
 
-I am a fourth-year PhD Student in Geophysics and NSF GRFP Fellow in the [Structural Geology & Earth Resources Group](https://https://structure.harvard.edu/) at Harvard University, advised by Professor John H. Shaw.
+I am a PhD Candidate in Geophysics & Structural Geology and NSF GRFP Fellow in the [Structural Geology & Earth Resources Group](https://https://structure.harvard.edu/) at Harvard University, advised by Professor John H. Shaw.
 
 My research is funded by the [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/) and the [Harvard Ashford Fellowship](https://ashfordfellows.fas.harvard.edu/about).
 
