@@ -73,6 +73,8 @@ In addition to the technical aspects of geophysics, I especially enjoy working i
 
 ## Publications
 
+2. Sargsyan L.S., Meliksetian Kh.B., Metaxian J-P., Levonyan A.F., Grigoryan E.S., **Toghramadjian N.**, Navasardyan G.Kh., Manucharyan D.A., Gevorgyan M.R., and Harutjunyan K.A.; Volcano-Tectonic Seismicity in Continental Collision Zones: Earthquake Swarms in the Gegham Volcanic Ridge (Armenia). Proceedings NAS RA, Earth Sciences, 2021, v. 74, N 1, 3-19
+
 1. Lilit Sargsyan, **Natasha E. Toghramadjian**, Alan L. Kafka; Cellular Seismology Analysis of Reservoir‐Triggered Seismicity Associated with Armenian Dams. Bulletin of the Seismological Society of America; 108 (5B): 3126–3140. doi: [https://doi.org/10.1785/0120180014]
 
 ---
