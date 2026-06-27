@@ -9,7 +9,7 @@ layout: default
 
 I am a Postdoctoral Fellow in Applied Geophysics & Structural Geology in the [Structural Geology & Earth Resources Group](https://https://structure.harvard.edu/) at Harvard University, where I also completed my PhD, funded by the [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/) and the [Harvard Ashford Fellowship](https://ashfordfellows.fas.harvard.edu/about).
 
-I am a structural geologist and applied geophysicist specializing in three-dimensional structural modeling. My research integrates diverse geological and geophysical datasets to characterize complex fault systems and subsurface structures, with applications to seismic hazard assessments in urban environments. I especially enjoy working on field deployments and involving local communities. 
+I am a structural geologist and applied geophysicist specializing in 3D structural modeling. My research integrates diverse geological and geophysical datasets to characterize complex fault systems and subsurface structures, with applications to seismic hazard assessments in urban environments. I especially enjoy working on field deployments and involving local communities. 
 
 Prior to my graduate work, I spent a year in Armenia on a Fulbright Research Grant, studying reservoir-triggered seismicity and the subsurface structure of the Caucasus Mountains, as well as the role scientific collaboration can play in improving international relationships. I received my B.S. in Geological Sciences with a minor in Physics from Boston College.
 
