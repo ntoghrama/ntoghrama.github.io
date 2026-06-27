@@ -4,7 +4,11 @@ layout: default
 
 <img src="ararat2.png">
 
+## About Me
+
 <img src="dilijan_shape_6.png">
+
+<img class="profile-picture" src="nsf_logo.png">
 
 I am a Postdoctoral Fellow in Applied Geophysics & Structural Geology in the [Structural Geology & Earth Resources Group](https://https://structure.harvard.edu/) at Harvard University, where I also completed my PhD, funded by the [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/) and the [Harvard Ashford Fellowship](https://ashfordfellows.fas.harvard.edu/about).
 
