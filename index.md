@@ -53,5 +53,3 @@ natasha_toghramadjian@g.harvard.edu
 Geology Museum
 <br>20 Oxford Street
 <br>Cambridge, MA 02138
-
-<img src="harvard-logo.jpg">
