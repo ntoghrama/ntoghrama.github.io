@@ -50,7 +50,7 @@ Prior to my graduate work, I spent a year in Armenia on a Fulbright Research Gra
 
 natasha_toghramadjian@g.harvard.edu
 
-Geology Museum 200B
+Geology Museum
 <br>20 Oxford Street
 <br>Cambridge, MA 02138
 
