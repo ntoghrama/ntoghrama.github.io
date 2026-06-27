@@ -19,7 +19,7 @@ Prior to my graduate work, I spent a year in Armenia on a Fulbright Research Gra
 
 <img src="NIF_photo5.png">
 
-*A 3D overview of the independent datasets we're using to both manually construct and objectively interpolate the 3D subsurface geometry of the Newport-Inglewood Fault.*
+*3D view of select datasets we're using to 3D model the Newport-Inglewood fault of Los Angeles, CA.*
 
 &nbsp;
 &nbsp;
