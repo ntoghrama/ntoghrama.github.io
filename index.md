@@ -2,8 +2,6 @@
 layout: default
 ---
 
-# Natasha Toghramadjian
-
 <img src="ararat2.png">
 
 ## About Me
@@ -12,11 +10,10 @@ layout: default
 
 <img class="profile-picture" src="nsf_logo.png">
 
-I am a PhD Candidate in Geophysics & Structural Geology and NSF GRFP Fellow in the [Structural Geology & Earth Resources Group](https://https://structure.harvard.edu/) at Harvard University, advised by Professor John H. Shaw.
+I am a Postdoctoral Fellow in Applied Geophysics & Structural Geology in the [Structural Geology & Earth Resources Group](https://https://structure.harvard.edu/) at Harvard University, where I also completed my PhD, funded by the [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/) and the [Harvard Ashford Fellowship](https://ashfordfellows.fas.harvard.edu/about).
 
-My research is funded by the [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/) and the [Harvard Ashford Fellowship](https://ashfordfellows.fas.harvard.edu/about).
+Prior to my graduate work, I spent a year in Armenia on a Fulbright Research Grant, studying reservoir-triggered seismicity and the subsurface structure of the Caucasus Mountains, as well as the role scientific collaboration can play in improving international relationships. I received my B.S. in Geological Sciences with a minor in Physics from Boston College.
 
-I received my B.S. in Geological Sciences with a minor in Physics from Boston College in 2017. After graduating, I spent a year in Armenia on a Fulbright Research Grant, studying reservoir-triggered seismicity and the subsurface structure of the Caucasus Mountains, as well as the role scientific collaboration can play in improving international relationships.
 
 &nbsp;
 
@@ -24,11 +21,11 @@ I received my B.S. in Geological Sciences with a minor in Physics from Boston Co
 
 **New Perspectives on Newport-Inglewood Fault Geometry**
 
-My current research centers on the Newport-Inglewood Fault, a tectonically active right-lateral system that extends for more than 40 km across the Los Angeles basin, California, and last ruptured in the 1933 Mw 6.4 Long Beach earthquake. The fault poses significant seismic hazard to the nearly 20 million people living in the greater LA metropolitan area.
+My current research centers on the Newport-Inglewood Fault, a tectonically active right-lateral system that extends for more than 40 miles across the Los Angeles basin of California. The fault poses significant seismic hazard to the nearly 20 million people living in the greater LA metropolitan area.
 
 I leverage numerous diverse, independent data sets&mdash;&mdash;2D and 3D seismic reflection surveys, robust stratigraphic controls from decades of oil industry well records, and hypocenter and focal mechanism catalogs recently expanded through template-matching&mdash;&mdash;to develop 3D fault representations. These data are used as weighted interpolation constraints, following the objective and reproducible method of Riesner et al. (2017).
 
-This work has direct implications for seismic hazard assessments in the Los Angeles metro area and is a key step toward understanding the tectonic history of Southern California.
+This work has direct implications for seismic hazard assessments in the Los Angeles metropolitan area.
 
 <img src="NIF_photo5.png">
 
@@ -40,10 +37,7 @@ This work has direct implications for seismic hazard assessments in the Los Ange
 
 **Ground motion amplification and crustal tomographic imaging in Seattle**
 
-I have also studied the Seattle sedimentary basin and fault zone, where I've [deployed 100+ broadband and nodal seismometers](https://www.king5.com/article/news/local/researchers-will-install-monitors-to-study-seattle-earthquake-fault-zone/281-ab395842-a46b-4ebf-baeb-0b1b623f7ffb), hosted at schools, churches, small businesses, and family backyards, to measure the ambient noise field. I cross-correlate these signals to investigate earthquake propagation in the basin&mdash;&mdash;which, like other sedimentary basins around the world&mdash;&mdash;is known to trap seismic energy and amplify ground motion during high-magnitude earthquakes. In particular, I am interested in the role played by the basin edges and the Seattle thrust fault.
-
-For large urban communities built atop sedimentary basins, this energy amplification means heightened seismic hazard. We plan to produce improved seismic velocity models and localized ground motion prediction equations, which can be applied by seismic engineers to inform building codes and change policy.
-
+I have also studied the Seattle sedimentary basin and fault zone, where I've [deployed 100+ broadband and nodal seismometers](https://www.king5.com/article/news/local/researchers-will-install-monitors-to-study-seattle-earthquake-fault-zone/281-ab395842-a46b-4ebf-baeb-0b1b623f7ffb), hosted at schools, churches, small businesses, and family backyards, to measure the ambient noise field. I cross-correlate these signals to investigate earthquake propagation in the basin&mdash;&mdash;which, like other sedimentary basins around the world&mdash;&mdash;is known to trap seismic energy and amplify ground motion during high-magnitude earthquakes. For large urban communities built atop sedimentary basins, this energy amplification means heightened seismic hazard. In particular, I am interested in the role played by the basin edges and the Seattle thrust fault.
 
 <img src="seattleBB_2.png">
 
@@ -65,23 +59,23 @@ In addition to the technical aspects of geophysics, I especially enjoy working i
 
 [//]: # I've also studied the Seattle basin and fault zone, using ambient noise seismology to investigate how seismic waves are amplified within sedimentary basins and reflected by their edges.
 
-[//]: # To measure the ambient seismic field, I've  [deployed 100+ broadband and nodal seismometers](https://www.king5.com/article/news/local/researchers-will-install-monitors-to-study-seattle-earthquake-fault-zone/281-ab395842-a46b-4ebf-baeb-0b1b623f7ffb) across the Seattle area, hosting these instruments at schools, churches, small businesses, and family backyards.
+[//]: # To measure the ambient seismic field, I've [deployed 100+ broadband and nodal seismometers](https://www.king5.com/article/news/local/researchers-will-install-monitors-to-study-seattle-earthquake-fault-zone/281-ab395842-a46b-4ebf-baeb-0b1b623f7ffb) across the Seattle area, hosting these instruments at schools, churches, small businesses, and family backyards.
 
 [//]: # I cross-correlate ambient noise recordings to investigate earthquake propagation in the basin, which&mdash;&mdash;like other sedimentary basins around the world&mdash;&mdash;is known to trap seismic energy and amplify ground motion during high-magnitude earthquakes. In particular, I am interested in the role played by the basin edges and the Seattle thrust fault.
 
 
 
-## Publications
+## Select Publications
 
-[2] Sargsyan L.S., Meliksetian Kh.B., Metaxian J-P., Levonyan A.F., Grigoryan E.S., **Toghramadjian N.**, Navasardyan G.Kh., Manucharyan D.A., Gevorgyan M.R., and Harutjunyan K.A.; Volcano-Tectonic Seismicity in Continental Collision Zones: Earthquake Swarms in the Gegham Volcanic Ridge (Armenia). Proceedings NAS RA, Earth Sciences, 2021, v. 74, N 1, 3-19
-
-[1] Lilit Sargsyan, **Natasha E. Toghramadjian**, Alan L. Kafka; Cellular Seismology Analysis of Reservoir‐Triggered Seismicity Associated with Armenian Dams. Bulletin of the Seismological Society of America; 108 (5B): 3126–3140. doi: [https://doi.org/10.1785/0120180014]
+1. Toghramadjian, N. & Shaw, J. H. Anatomy of a complex strike-slip urban fault system: the Newport–Inglewood fault, Los Angeles, California. Manuscript in preparation.
+2. Toghramadjian, N., Denolle, M. A., Ermert, L., & Jiang, C. Probing the Seattle Basin edge using a dense urban nodal array in 100 backyards. Seismological Research Letters (2026).
+3. Meliksetian, K., Sargsyan, L., Koulakov, I., Toghramadjian, N., et al. Deep sources of recent volcanism in Armenia inferred from ambient noise tomography. Journal of Geophysical Research: Solid Earth (2026).
+4. Toghramadjian, N. & Shaw, J. H. 3D Geometry and Slip Distribution in the Long Beach Earthquake Gate, Newport–Inglewood Fault. Bulletin of the Seismological Society of America 114(4):1941–1965 (2024).
+5. Sargsyan, L., Toghramadjian, N. & Kafka, A. Cellular Seismology Analysis of Reservoir-Triggered Seismicity Associated with Armenian Dams. Bull. Seismol. Soc. Am. (2018).
 
 ---
 
 [//]: # <img src="seattle_3.png">
-
-[//]: #                                A helper joined us for field work!
 
 ## Contact
 
