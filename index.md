@@ -7,7 +7,7 @@ layout: default
 <img src="dilijan_shape_6.png">
 
 
-I am a Postdoctoral Fellow in Applied Geophysics & Structural Geology in the [Structural Geology & Earth Resources Group](https://structure.harvard.edu/) at Harvard University, where I also completed my PhD, funded by the [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/).
+I am a Postdoctoral Fellow in Applied Geophysics & Structural Geology in the [Structural Geology & Earth Resources Group](https://www.structure.harvard.edu/) at Harvard University, where I also completed my PhD, funded by the [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/).
 
 I am a structural geologist and applied geophysicist specializing in 3D structural modeling. My research integrates diverse geological and geophysical datasets to characterize complex fault systems and subsurface structures, with applications to seismic hazard assessments in urban environments. I especially enjoy working on field deployments and involving local communities. 
 
