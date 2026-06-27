@@ -4,7 +4,8 @@ layout: default
 
 <img src="ararat2.png">
 
-<img class="profile-picture" src="dilijan_shape_6.png">
+<img src="dilijan_shape_6.png">
+
 
 I am a Postdoctoral Fellow in Applied Geophysics & Structural Geology in the [Structural Geology & Earth Resources Group](https://https://structure.harvard.edu/) at Harvard University, where I also completed my PhD, funded by the [NSF Graduate Research Fellowship](https://www.nsfgrfp.org/) and the [Harvard Ashford Fellowship](https://ashfordfellows.fas.harvard.edu/about).
 
@@ -80,3 +81,5 @@ natasha_toghramadjian@g.harvard.edu
 Geology Museum 200B
 <br>20 Oxford Street
 <br>Cambridge, MA 02138
+
+<img src="harvard-logo.jpg">
